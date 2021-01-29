@@ -20,8 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fe9dbab-a29f-4dea-9acd-2054eb44967e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Templates/html5up-editorial/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/html5up-editorial/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/html5up-editorial/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/html5up-editorial/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/html5up-hyperspace/assets/css/bg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/html5up-hyperspace/assets/js/body-slideshow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/html5up-hyperspace/images/bg01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/html5up-hyperspace/images/bg02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/html5up-hyperspace/images/bg03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/html5up-eventually/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/html5up-eventually/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/html5up-eventually/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/html5up-eventually/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Templates/html5up-hyperspace/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/html5up-hyperspace/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Templates/html5up-hyperspace/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/html5up-hyperspace/index.html" afterDir="false" />
     </list>
@@ -45,8 +51,13 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Templates/html5up-hyperspace/images" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rotmg\Desktop\Portfolio\Templates\html5up-hyperspace\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611890248085</updated>
-      <workItem from="1611890249149" duration="332000" />
+      <workItem from="1611890249149" duration="1415000" />
     </task>
     <servers />
   </component>
@@ -78,13 +89,21 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1611890425657">
+    <state x="702" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611890790200">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611890425657" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611890430908">
+    <state x="702" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611890790200" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611891253174">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611890430908" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611891253174" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1611891511789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611891511789" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611891644353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611891644353" />
   </component>
 </project>

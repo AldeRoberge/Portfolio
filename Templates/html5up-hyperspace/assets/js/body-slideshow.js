@@ -4,9 +4,9 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-(function () {
+console.log("Yeah!");
 
-    console.log("YEAH!");
+(function () {
 
     "use strict";
 
@@ -68,12 +68,15 @@
     // Play initial animations on page load.
     window.addEventListener('load', function () {
         window.setTimeout(function () {
+            console.log("Removing preload...");
             $body.classList.remove('is-preload');
         }, 100);
     });
 
     // Slideshow Background.
     (function () {
+
+        console.log("Loading slideshow...");
 
         // Settings.
         var settings = {
@@ -138,13 +141,12 @@
 
             // Hide last image after a short delay.
             window.setTimeout(function () {
+                console.log("Switching...");
                 $bgs[lastPos].classList.remove('visible');
             }, settings.delay / 2);
 
         }, settings.delay);
 
     })();
-
-
 
 })();
