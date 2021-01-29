@@ -20,7 +20,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fe9dbab-a29f-4dea-9acd-2054eb44967e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Templates/html5up-hyperspace/assets/css/bg.css" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/html5up-hyperspace/assets/css/bg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/assets/css/spotlight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/images/about-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/css/fontawesome-all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/css/images/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/css/noscript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/js/breakpoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/js/browser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/js/jquery.scrollex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/js/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/base/_page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/base/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/components/_actions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/components/_box.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/components/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/components/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/components/_features.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/components/_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/components/_icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/components/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/components/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/components/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/components/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/components/_row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/components/_section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/components/_table.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/layout/_banner.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/layout/_menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/layout/_wrapper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/libs/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/libs/_html-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/libs/_vendor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/sass/noscript.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/generic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/images/pic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/images/pic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/images/pic03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/images/pic04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/images/pic05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/images/pic06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/images/pic07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/images/pic08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +114,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Templates/html5up-hyperspace/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Portfolio/images" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rotmg\Desktop\Portfolio\Portfolio\images" />
       <recent name="C:\Users\rotmg\Desktop\Portfolio\Templates\html5up-hyperspace\images" />
     </key>
   </component>
@@ -58,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611890248085</updated>
-      <workItem from="1611890249149" duration="1573000" />
+      <workItem from="1611890249149" duration="3825000" />
     </task>
     <servers />
   </component>
@@ -88,10 +161,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611891253174" />
-    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1611891511789">
+    <state x="667" y="253" width="639" height="534" key="find.popup" timestamp="1611893833055">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611891511789" />
+    <state x="667" y="253" width="639" height="534" key="find.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611893833055" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611891644353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
