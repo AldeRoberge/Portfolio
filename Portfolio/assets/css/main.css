@@ -1,4 +1,4 @@
-@import url(fontawesome-all.min.css);
+
 
 /*
 	Hyperspace by HTML5 UP
@@ -2514,7 +2514,7 @@ input[type="radio"] + label:before {
 }
 
 .icon.solid:before {
-    font-weight: 900;
+    font-weight: 400;
 }
 
 .icon.brands:before {
