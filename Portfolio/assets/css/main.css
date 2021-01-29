@@ -2525,7 +2525,7 @@ input[type="radio"] + label:before {
     width: 2.5em;
     height: 2.5em;
     display: block;
-    background: #ffffff;
+    background: rgba(0,0,0,0);
     border-radius: 100%;
     color: #312450;
     text-align: center;
@@ -2807,7 +2807,6 @@ ul.contact > li:first-child {
 /* Icons */
 
 ul.icons {
-    cursor: default;
     list-style: none;
     padding-left: 0;
 }
